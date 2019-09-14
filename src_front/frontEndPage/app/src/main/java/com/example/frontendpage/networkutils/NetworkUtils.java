@@ -10,7 +10,9 @@ import java.nio.file.Files;
 
 public class NetworkUtils {
     public static void sendFile(File file) throws IOException {
-        final String url = "10.0.2.2:8080/upload";
+//        final String url = "10.0.2.2:8080/upload";
+//        final String url = "127.0.0.1:80/upload";
+        final String url = "10.250.195.32:5000/";
         final String charset = "UTF-8";
         final String param = "value";
 
