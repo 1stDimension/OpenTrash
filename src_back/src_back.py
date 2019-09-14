@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/material', methods=['POST'])
 def material():
-    return render_template('material.html', img = base64.b64encode(request.files['img'].read()))
+    return render_template('material.html', img = 'data:image/png;base64,' + str(base64.b64encode(request.files['img'].read()), 'utf-8'))
 
 
 @app.route('/', methods=['GET'])
