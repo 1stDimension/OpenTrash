@@ -1,12 +1,23 @@
-from flask import Flask, render_template, request
 import base64
+
+from flask import Flask, render_template, request
+from flask import jsonify
+
+from classifier import classify
 
 app = Flask(__name__)
 
 
-@app.route('/material', methods=['POST'])
+@app.route('/material',methods=['POST'])
 def material():
-    return render_template('material.html', img = 'data:image/png;base64,' + str(base64.b64encode(request.files['img'].read()), 'utf-8'))
+    with open('labels.txt') as file:
+        labels = [line.strip() for line in file.readlines()]
+    image = request.files['img']
+    label = classify(image.read(), labels)
+    responce = {
+        "material": label
+    }
+    return jsonify(responce)
 
 
 @app.route('/', methods=['GET'])
