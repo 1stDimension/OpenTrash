@@ -438,7 +438,7 @@ beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, wag
 beacon, lighthouse, beacon light, pharos
 beaker
 bearskin, busby, shako
-beer bottle
+glass
 beer glass
 bell cote, bell cot
 bib

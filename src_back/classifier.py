@@ -22,8 +22,8 @@ def classify(image, labels):
 
     model.eval()
 
-    #with torch.no_grad():
-    #    output  = model(batch)
+    with torch.no_grad():
+        output  = model(batch)
     out = model(batch)
     _, index = torch.max(out, 1)
 
