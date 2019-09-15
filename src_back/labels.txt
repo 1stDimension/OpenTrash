@@ -1,43 +1,43 @@
-tench, Tinca tinca
-goldfish, Carassius auratus
-great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias
-tiger shark, Galeocerdo cuvieri
-hammerhead, hammerhead shark
-electric ray, crampfish, numbfish, torpedo
-stingray
-cock
-hen
-ostrich, Struthio camelus
-brambling, Fringilla montifringilla
-goldfinch, Carduelis carduelis
-house finch, linnet, Carpodacus mexicanus
+organic
+organic
+organic
+organic
+organic
+organic
+organic
+organic
+organic
+organic 
+organic
+organic
+organic
 junco, snowbird
-indigo bunting, indigo finch, indigo bird, Passerina cyanea
+organic
 robin, American robin, Turdus migratorius
-bulbul
-jay
-magpie
+organic
+organic
+organic
 chickadee
-water ouzel, dipper
-kite
-bald eagle, American eagle, Haliaeetus leucocephalus
-vulture
-great grey owl, great gray owl, Strix nebulosa
+organic
+plastic
+organic
+organic
+organic
 European fire salamander, Salamandra salamandra
 common newt, Triturus vulgaris
 eft
-spotted salamander, Ambystoma maculatum
-axolotl, mud puppy, Ambystoma mexicanum
-bullfrog, Rana catesbeiana
-tree frog, tree-frog
+organic
+organic
+organic
+organic
 tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui
 loggerhead, loggerhead turtle, Caretta caretta
 leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea
-mud turtle
+organic
 terrapin
 box turtle, box tortoise
 banded gecko
-common iguana, iguana, Iguana iguana
+organic
 American chameleon, anole, Anolis carolinensis
 whiptail, whiptail lizard
 agama
@@ -453,7 +453,7 @@ bolo tie, bolo, bola tie, bola
 bonnet, poke bonnet
 bookcase
 bookshop, bookstore, bookstall
-bottlecap
+metal
 bow
 bow tie, bow-tie, bowtie
 brass, memorial tablet, plaque
@@ -896,7 +896,7 @@ wardrobe, closet, press
 warplane, military plane
 washbasin, handbasin, washbowl, lavabo, wash-hand basin
 washer, automatic washer, washing machine
-water bottle
+plastic
 water jug
 water tower
 whiskey jug
@@ -905,7 +905,7 @@ wig
 window screen
 window shade
 Windsor tie
-wine bottle
+glass
 wing
 wok
 wooden spoon
@@ -961,12 +961,12 @@ carbonara
 chocolate sauce, chocolate syrup
 dough
 meat loaf, meatloaf
-pizza, pizza pie
-potpie
-burrito
+organic
+organic
+organic
 red wine
 espresso
-cup
+glass
 eggnog
 alp
 bubble
@@ -985,7 +985,7 @@ scuba diver
 rapeseed
 daisy
 yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum
-corn
+organic
 acorn
 hip, rose hip, rosehip
 buckeye, horse chestnut, conker
@@ -995,6 +995,6 @@ gyromitra
 stinkhorn, carrion fungus
 earthstar
 hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa
-bolete
+organic
 ear, spike, capitulum
 toilet tissue, toilet paper, bathroom tissue
